@@ -13,3 +13,6 @@ def factorial(n):
 num = int(input("What number do you want to calculate the factorial for? "))
 
 print(f"The factorial of  {num} is: {factorial(num)}")
+
+
+
